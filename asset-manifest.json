@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zabble-test/static/css/main.fefc8298.chunk.css",
-    "main.js": "/zabble-test/static/js/main.50a003d5.chunk.js",
-    "main.js.map": "/zabble-test/static/js/main.50a003d5.chunk.js.map",
+    "main.js": "/zabble-test/static/js/main.b54da54d.chunk.js",
+    "main.js.map": "/zabble-test/static/js/main.b54da54d.chunk.js.map",
     "runtime-main.js": "/zabble-test/static/js/runtime-main.b832e830.js",
     "runtime-main.js.map": "/zabble-test/static/js/runtime-main.b832e830.js.map",
     "static/js/2.9fc0cb05.chunk.js": "/zabble-test/static/js/2.9fc0cb05.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b832e830.js",
     "static/js/2.9fc0cb05.chunk.js",
     "static/css/main.fefc8298.chunk.css",
-    "static/js/main.50a003d5.chunk.js"
+    "static/js/main.b54da54d.chunk.js"
   ]
 }
