@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/zabble-test/static/css/main.2948e645.chunk.css",
-    "main.js": "/zabble-test/static/js/main.3370dd05.chunk.js",
-    "main.js.map": "/zabble-test/static/js/main.3370dd05.chunk.js.map",
+    "main.css": "/zabble-test/static/css/main.fefc8298.chunk.css",
+    "main.js": "/zabble-test/static/js/main.50a003d5.chunk.js",
+    "main.js.map": "/zabble-test/static/js/main.50a003d5.chunk.js.map",
     "runtime-main.js": "/zabble-test/static/js/runtime-main.b832e830.js",
     "runtime-main.js.map": "/zabble-test/static/js/runtime-main.b832e830.js.map",
     "static/js/2.9fc0cb05.chunk.js": "/zabble-test/static/js/2.9fc0cb05.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.3aad37f2.chunk.js": "/zabble-test/static/js/3.3aad37f2.chunk.js",
     "static/js/3.3aad37f2.chunk.js.map": "/zabble-test/static/js/3.3aad37f2.chunk.js.map",
     "index.html": "/zabble-test/index.html",
-    "static/css/main.2948e645.chunk.css.map": "/zabble-test/static/css/main.2948e645.chunk.css.map",
+    "static/css/main.fefc8298.chunk.css.map": "/zabble-test/static/css/main.fefc8298.chunk.css.map",
     "static/js/2.9fc0cb05.chunk.js.LICENSE.txt": "/zabble-test/static/js/2.9fc0cb05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b832e830.js",
     "static/js/2.9fc0cb05.chunk.js",
-    "static/css/main.2948e645.chunk.css",
-    "static/js/main.3370dd05.chunk.js"
+    "static/css/main.fefc8298.chunk.css",
+    "static/js/main.50a003d5.chunk.js"
   ]
 }
